@@ -1,0 +1,14 @@
+Name: Mohammad Aman Zargar
+NSID: maz423
+Student ID: 11265940
+
+The app can be run using the following steps
+In a terminal window , execute command "./runServer.sh"
+In another terminal window , execute command "./runClient.sh"
+
+Follow the prompts on the client terminal to use the app
+You can see the commands being sent to the server on the server terminal
+
+The app has been tested by running multiple clients at once and also sending messages concurrently.
+All the clients can read the previous messages sent in a chat room and also connect to the other rooms.
+
